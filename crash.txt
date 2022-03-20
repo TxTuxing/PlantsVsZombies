@@ -1,0 +1,26 @@
+Unknown exception: (code 0xe06d7363) at address 757EB522 in thread 10E8
+Module: KERNELBASE.dll
+Logical Address: 0001:0012A522
+
+11D7F93C 757EB522 0001:0012A522 KERNELBASE.dll
+Params: E06D7363 00000001 00000003 11D7F968
+
+
+EAX:11D7F8E0 EBX:02736BC0 ECX:00000003 EDX:00000000 ESI:006A6668 EDI:00000320
+EIP:757EB522 ESP:11D7F8E0  EBP:11D7F93C
+CS:0023 SS:002B DS:002B ES:002B FS:0053 GS:002B
+Flags:00000212
+
+Windows Ver: NT 6.2  Build 9200
+DDraw Ver: 
+DSound Ver: 
+
+Product: PlantsVsZombies
+Version: 1.0.0.1051
+Time Loaded: 00:00:15
+Fullscreen: No
+Primary ThreadId: CB4
+Times Played: 0
+Build Num: 0
+Build Date: 
+
